@@ -1,0 +1,17 @@
+.container-header{
+    margin: 5px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 5px;
+    align-items: end;
+}
+.container-products{
+    border-color: black;
+    border-width: 1px;
+    border-style: double;
+    border-radius: 10px;
+    background-color: #F8F9FA;
+}
+.btn{
+    max-width: 256px;
+}
